@@ -74,20 +74,20 @@ Host: example.com
 
 # Tracing the Location
 TCP Traceroute:
-sudo traceroute -T www.google.com
+sudo traceroute -T letterboxd.com
 ## output
 <img width="1258" height="354" alt="image" src="https://github.com/user-attachments/assets/96bad051-d5f9-4cdd-81c8-1ba3faa10cb0" />
 
 
 ## UDP Traceroute:
-sudo traceroute -U www.google.com
+sudo traceroute -U letterboxd.com
 ## output
 <img width="1235" height="545" alt="image" src="https://github.com/user-attachments/assets/a2a2db9a-010d-43c0-a7d0-76e33baa6ab1" />
 
 
 
 ## ICMP Traceroute:
-sudo traceroute  www.google.com
+sudo traceroute letterboxd.com
 ## output
 <img width="1265" height="271" alt="Screenshot 2026-01-31 014536" src="https://github.com/user-attachments/assets/8f7553c5-78fc-4fd7-915e-5274f1c2c6ae" />
 
